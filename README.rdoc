@@ -1,0 +1,4 @@
+== Heroku deployable Rails 4.1.8 app
+- Uses Puma as web server
+
+
